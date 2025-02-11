@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MasterGuram
-- 👀 I’m interested in learning Azure Cloud infrasructure and Python
-- 🌱 I’m currently preparing for PCAP exam
-- 💞️ I’m looking to collaborate on Python based solutions
+- 👀 I’m interested in Web Development
+
+  
 - 📫 How to reach me: guram.bregadze@gmail.com
 
 <!---
